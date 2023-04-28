@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Spain</h3> 
 
 - 🔭 I’m currently working on **Apollofy-app-backend**
-
+ 
 - 🌱 I’m currently learning **Typescript, jQuery**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jose-torres-software-developer/](https://www.linkedin.com/in/jose-torres-software-developer/)
