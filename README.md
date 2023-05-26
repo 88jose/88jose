@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Apollofy-app-backend**
  
-- 🌱 I’m currently learning **Typescript, jQuery**
+- 🌱 I’m currently learning **Typescript**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jose-torres-software-developer/](https://www.linkedin.com/in/jose-torres-software-developer/)
 
