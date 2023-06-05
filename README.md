@@ -17,3 +17,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jota-t-s&show_icons=true&locale=en&layout=compact" alt="jota-t-s" /></p>
 
+<div align="center">
+ 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Alvaro-S89&theme=transparent)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jota-T-S&show_icons=true&theme=transparent)
+
+
+</div>
