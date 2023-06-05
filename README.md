@@ -20,5 +20,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jota-T-S&show_icons=true&theme=transparent)
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jota-t-s&show_icons=true&locale=en&layout=compact" alt="jota-t-s" />
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jota-t-s&show_icons=true&locale=en&layout=compact" alt="jota-t-s" /></p>
 
